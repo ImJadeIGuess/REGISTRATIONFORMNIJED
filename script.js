@@ -1,4 +1,4 @@
 document.getElementById('registrationForm').addEventListener('submit', function(event) {
-    event.preventDefault(); // prevent actual form submission
+    event.preventDefault(); 
     alert("Form Submitted Successfully!");
 });
